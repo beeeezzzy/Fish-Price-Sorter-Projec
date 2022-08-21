@@ -1,0 +1,20 @@
+Step 1: First run the program
+Step 2: Log in 
+	username: admin
+	password: admin
+Step 3: Access all functions displayed inside the system 
+	Functions : Add, Delete, View, Search
+	
+	Add : The user will type all the information given by the system and if clicked the "ADD" button, it will inserts to the BST and generates a message that the
+	      data is inserted.
+	
+	Delete: The user will search the data he/she wants to delete inside the table, and if clicked the "DELETE" button, it will delete from the BST.
+
+	View: The user can view the data by the following: View all, View specific, View by Range.
+
+		View all: prints all the data inside a table.
+		View specific: prints specific data inside a table.
+		View by range: prints the data based on the price range being typed by the user and displays it in the table.
+
+	Search: The user can search data inside the BST and displays it inside a table.
+
